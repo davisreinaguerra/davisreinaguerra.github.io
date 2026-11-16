@@ -1,0 +1,9 @@
+title: Davis Reina-Guerra
+description: personal website
+theme: minima
+
+header_pages:
+  - about.md
+  - research.md
+  - projects.md
+  - contact.md
