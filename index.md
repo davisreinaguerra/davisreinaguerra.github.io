@@ -1,8 +1,18 @@
 ---
 layout: home
-title: Home
+title: About Me
 ---
 
-# Welcome
+# About Me
 
-My name is Davis Reina-Guerra. 
+Welcome to my personal website!
+
+Write a short introduction about yourself here.
+
+## Background
+
+Your background and interests.
+
+## Research Interests
+
+Your research interests.
