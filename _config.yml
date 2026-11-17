@@ -7,11 +7,7 @@ header_pages:
   - projects.md
   - cv.md
 
-author:
-  name: Davis Reina-Guerra
-  email: davisrg.neuro@gmail.com
+author: Davis Reina-Guerra
+email: davisrg.neuro@gmail.com
 
-minima:
-  social_links:
-    - platform: github
-      user_url: https://github.com/davisreinaguerra
+github_username: davisreinaguerra
