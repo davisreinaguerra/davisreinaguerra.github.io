@@ -3,21 +3,7 @@ description: PhD candidate in the Boston University department of Anatomy and Ne
 
 theme: minima
 
-# Navigation
-minima:
-  skin: classic
-  nav_pages:
-    - index.md
-    - projects.md
-    - cv.md
-
-  # Social media links
-  social_links:
-    - platform: github
-      user_url: "https://github.com/davisreinaguerra"
-
-# Contact information
-email: "davisrg.neuro@gmail.com"
-
-# Site metadata
-url: "https://davisreinaguerra.github.io"
+header_pages:
+  - index.md
+  - projects.md
+  - cv.md
