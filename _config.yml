@@ -1,11 +1,23 @@
 title: Davis Reina-Guerra
-description: PhD Candidate studying basal ganglia circuits of threat/reward conflict at Boston University. Actively searching for postdoctoral research fellowships.
+description: PhD candidate in the Boston University department of Anatomy and Neurobiology Wallace Lab, studying the representation of threat/reward conflict by topographically organized basal ganglia subcircuits using a combination of genetic neuroanatomical tract tracing and loss-of-function behavioral approaches coupled with optical interrogation of circuit activity. Experienced educator in the biomedical sciences in both lecture and laboratory setting across a wide variety of student populations.  Skilled cadaveric dissector for medical research and education. Passionate illustrator and graphic designer.
+
 theme: minima
 
-header_pages:
-  - index.md
-  - projects.md
-  - cv.md
+# Navigation
+minima:
+  skin: classic
+  nav_pages:
+    - index.md
+    - projects.md
+    - cv.md
 
+  # Social media links
+  social_links:
+    - platform: github
+      user_url: "https://github.com/davisreinaguerra"
+
+# Contact information
 email: "davisrg.neuro@gmail.com"
-github_username: davisreinaguerra
+
+# Site metadata
+url: "https://davisreinaguerra.github.io"
