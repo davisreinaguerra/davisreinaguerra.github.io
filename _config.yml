@@ -1,6 +1,6 @@
 title: Davis Reina-Guerra
 description: PhD Candidate studying basal ganglia circuits of threat/reward conflict at Boston University. Actively searching for postdoctoral research fellowships.
-theme: minima
+theme: jekyll-theme-chirpy
 
 header_pages:
   - index.md
