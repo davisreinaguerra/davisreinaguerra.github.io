@@ -6,3 +6,7 @@ header_pages:
   - index.md
   - projects.md
   - cv.md
+
+author:
+  name: Davis Reina-Guerra
+  email: <davisrg.neuro@gmail.com>
