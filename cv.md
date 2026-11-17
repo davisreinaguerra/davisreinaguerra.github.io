@@ -1,4 +1,4 @@
 ---
 layout: home
-title: curriculum vitae
+title: Curriculum Vitae
 ---
