@@ -1,13 +1,10 @@
 title: Davis Reina-Guerra
 description: Personal website
 theme: minima
+email: davisrg.neuro@gmail.com
+github_username: davisreinaguerra
 
 header_pages:
   - index.md
   - projects.md
   - cv.md
-
-author: Davis Reina-Guerra
-email: davisrg.neuro@gmail.com
-
-github_username: davisreinaguerra
