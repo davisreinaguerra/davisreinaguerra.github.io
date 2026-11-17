@@ -1,8 +1,8 @@
-title: Davis Reina-Guerra
-description: personal website
+title: Your Name
+description: Personal website
 theme: minima
 
 header_pages:
-  - about.md
+  - index.md
   - projects.md
-  - CV.md
+  - cv.md
