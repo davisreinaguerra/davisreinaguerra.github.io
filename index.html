@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -90,7 +91,6 @@
       <nav aria-label="Main navigation">
         <a href="#about" data-page="about" aria-current="page">About Me</a>
         <a href="#projects" data-page="projects">Projects</a>
-        <a href="#cv" data-page="cv">CV</a>
       </nav>
     </div>
   </header>
@@ -100,15 +100,15 @@
       <h1 id="about-heading">About Me</h1>
       <p>
         I am a PhD candidate in the Department of Anatomy and Neurobiology at Boston University, working in the Wallace Lab. My research
-        investigates how topographically organized basal ganglia subcircuits represent threat/reward conflict. My work combines genetic 
-        neuroanatomical tract tracing, loss-of-function behavioral approaches, and optical interrogation of circuit activity. I am also 
+        investigates how topographically organized basal ganglia subcircuits represent threat/reward conflict. My work combines genetic
+        neuroanatomical tract tracing, loss-of-function behavioral approaches, and optical interrogation of circuit activity. I am also
         an experienced educator in the biomedical sciences, with teaching experience in lecture and laboratory settings across a wide
-        variety of student populations. I have experience as a skilled cadaveric dissector for medical research and education. I am actively 
+        variety of student populations. I have experience as a skilled cadaveric dissector for medical research and education. I am actively
         searching for postdoctoral fellowship opportunities. Please feel free to <a href="mailto:davisrg.neuro@gmail.com">get in touch</a>.
       </p>
     </section>
 
-    <!- Projects Page -->
+    <!-- Projects Page -->
     <section class="page" id="projects" aria-labelledby="projects-heading">
       <h1 id="projects-heading">Projects</h1>
       <p class="placeholder">
@@ -116,8 +116,6 @@
         and presentations here.
       </p>
     </section>
-
-    
   </main>
 
   <footer class="site-footer">
@@ -148,8 +146,7 @@
         }
       });
 
-      document.title = `${page === "about" ? "Davis Reina-Guerra" :
-        page === "cv" ? "CV" : "Projects"} | Davis Reina-Guerra`;
+      document.title = `${page === "about" ? "About Me" : "Projects"} | Davis Reina-Guerra`;
     }
 
     function navigate() {
